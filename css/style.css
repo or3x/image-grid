@@ -1,0 +1,19 @@
+/* *{
+	box-sizing: border-box;
+} */
+
+body{
+	background-color: #001D26;
+	line-height: 0;
+
+}
+.main-section{
+	margin: 80px 20px;
+}
+
+/* Layout */
+.ba-container{
+	padding-left: 20px;
+	padding-right: 20px;
+	max-width: 1200px;
+}
